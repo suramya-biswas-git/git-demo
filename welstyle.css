@@ -1,0 +1,28 @@
+body {
+background-color: yellow;
+}
+
+h1 {
+color: red;
+margin-left: 20px;
+}
+
+h2{
+color: blue;
+margin-left: 20px;
+}
+
+h3 {
+color: green;
+margin-left: 20px;
+}
+h4 {
+color: orange;
+margin-left: 20px;
+}
+
+
+p{
+color: magenta;
+margin-left: 20px;
+}
